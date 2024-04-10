@@ -1,0 +1,20 @@
+{
+  "Index": {
+    "title": "Hello Welt!"
+  },
+
+  "IndexPage": {
+    "title": "next-intl Beispiel",
+    "description": "Willkommen beim Next.js Internationalization (i18n)-Beispiel! Diese Demo zeigt die Leistungsfähigkeit des App Routers und wie Sie mehrsprachige Inhalte nahtlos mit next-intl verwalten können."
+  },
+  "NotFoundPage": {
+    "title": "Seite nicht gefunden",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+  },
+  "Navigation": {
+    "home": "Startseite"
+  },
+  "Footer": {
+    "copyright": "© 2024 Deine App. Alle Rechte vorbehalten."
+  }
+}
